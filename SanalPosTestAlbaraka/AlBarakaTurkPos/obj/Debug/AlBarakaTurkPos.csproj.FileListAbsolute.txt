@@ -1,0 +1,5 @@
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\AlBarakaTurkPos\bin\Debug\AlBarakaTurkPos.dll
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\AlBarakaTurkPos\bin\Debug\AlBarakaTurkPos.pdb
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\AlBarakaTurkPos\obj\Debug\AlBarakaTurkPos.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\AlBarakaTurkPos\obj\Debug\AlBarakaTurkPos.dll
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\AlBarakaTurkPos\obj\Debug\AlBarakaTurkPos.pdb

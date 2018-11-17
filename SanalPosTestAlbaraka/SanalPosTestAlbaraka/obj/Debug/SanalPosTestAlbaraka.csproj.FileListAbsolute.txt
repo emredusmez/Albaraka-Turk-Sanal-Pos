@@ -1,0 +1,8 @@
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\bin\Debug\SanalPosTestAlbaraka.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\bin\Debug\SanalPosTestAlbaraka.exe
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\bin\Debug\SanalPosTestAlbaraka.pdb
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\bin\Debug\AlBarakaTurkPos.dll
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\bin\Debug\AlBarakaTurkPos.pdb
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\obj\Debug\SanalPosTestAlbaraka.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\obj\Debug\SanalPosTestAlbaraka.exe
+c:\users\emre\documents\visual studio 2017\Projects\SanalPosTestAlbaraka\SanalPosTestAlbaraka\obj\Debug\SanalPosTestAlbaraka.pdb
